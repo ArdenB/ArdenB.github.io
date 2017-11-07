@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About my work
-subtitle: Testing
+title: A brief introduction
 use-site-title: true
 ---
 
-# Title and regrestration 
+I'm Arden L. Burrell, a remote sensing scientist doing my PhD at the University of New South Wales Climate Change Research Centre. I'm also the developer of the TSS-RESTREND R package which is available on both [CRAN]{https://cran.r-project.org/web/packages/TSS.RESTREND/index.html} and [Github]{https://github.com/ArdenB/TSSRESTREND}.
