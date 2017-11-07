@@ -23,7 +23,7 @@ description: A bit of infomation about me
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Research: "aboutme"
   Publications: "pubs"
   Blog: "blog"
   Google Scholar: "https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en"
