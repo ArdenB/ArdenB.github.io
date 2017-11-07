@@ -25,7 +25,7 @@ description: A bit of infomation about me
 navbar-links:
   About Me: "aboutme"
   Publications: "pubs"
-  Blog: "copyin"
+  Blog: "blog"
   Google Scholar: "https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en"
   Resources:
     - TSS.RESTREND: "https://github.com/ArdenB/TSSRESTREND"
