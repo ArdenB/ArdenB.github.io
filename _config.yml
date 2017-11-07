@@ -26,7 +26,9 @@ navbar-links:
   About Me: "aboutme"
   Publications: "pubs"
   Blog: "copyin"
-  #Resources:
+  Google Scholar: "https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en"
+  Resources:
+    - TSS.RESTREND: "https://github.com/ArdenB/TSSRESTREND"
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
