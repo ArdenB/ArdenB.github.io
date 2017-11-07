@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A brief introduction
+subtitle: A brief introduction
 use-site-title: true
 ---
 
