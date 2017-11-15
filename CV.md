@@ -8,9 +8,8 @@ subtitle: Curriculum Vitae
 - 2009-2012: **Bachelor of Environmental Science** (Honours, Class 1) University of Wollongong Dean’s Merit List. 
 
 ### Teaching
-- **Lab Demonstration**
+- **Lab & Field Trip Demonstration**
     - GEOS2821 - Remote Sensing and spatial science
-- **Field Trip Demonstration**
     - MSCI0501-The Marine Environment 2015-2016
 - **Guest Lecturer**
     - BEES6601 - On: Intro to climate science
