@@ -25,6 +25,7 @@ description: A bit of infomation about me
 navbar-links:
   Research: "aboutme"
   Publications: "pubs"
+  Curriculum Vitae: "CV"
   Blog: "blog"
   Google Scholar: <a href='https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en' target='_blank'</a>
   Resources:
