@@ -26,7 +26,7 @@ navbar-links:
   Research: "aboutme"
   Publications: "pubs"
   Blog: "blog"
-  Google Scholar: "https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en"
+  Google Scholar: "<a href='https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en' target='_blank'/a>"
   Resources:
     - TSS.RESTREND: "https://github.com/ArdenB/TSSRESTREND"
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
