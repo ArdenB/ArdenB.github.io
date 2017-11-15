@@ -20,3 +20,6 @@ subtitle: Curriculum Vitae
     - MSCI0501 (2015-2017)
 
 ### Professional experience   
+- 2011-2014: **Environmental Field Officer**. Agurba Environmental Consultants
+- 2010-2011: **Vacation Environmental Advisor**. BHP Billiton Mitsubishi Alliance (BMA)
+- 2007-2014: **Research Officer**. Jenny Rand & Associates – Management Consultants
