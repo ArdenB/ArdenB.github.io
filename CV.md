@@ -10,16 +10,16 @@ subtitle: Curriculum Vitae
 
 ### Teaching
 - **Lab Demonstration**
-- GEOS2821 - Remote Sensing and spatial science
+    - GEOS2821 - Remote Sensing and spatial science
 - **Field Trip Demonstration**
-- MSCI0501-The Marine Environment 2015-2016
+    - MSCI0501-The Marine Environment 2015-2016
 - **Guest Lecturer**
-- BEES6601 - On: Intro to climate science
+    - BEES6601 - On: Intro to climate science
 - **Subject auditor**
-- CLIM1001 - GENS0401-Introduction to Climate Change S2 2017
+    - CLIM1001 - GENS0401-Introduction to Climate Change S2 2017
 - **Marking**
-- CLIM1001 - 2016
-- MSCI0501 - 2015-2016
-- CLIM1001 - 2016
+    - CLIM1001 - 2016
+    - MSCI0501 - 2015-2016
+    - CLIM1001 - 2016
 
 ### Professional experience   
