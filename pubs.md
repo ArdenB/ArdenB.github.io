@@ -7,8 +7,10 @@ title: Publications
 
 ### In Review
 --  **Arden L. Burrell**, Jason P. Evans, Yi Liu, [**The Addition of Temperature Significantly Improves the Detection of Land Degradation in Cold Drylands Using the TSS-RESTREND Methodology**]
+
 -- **Arden L. Burrell**, Jason P. Evans, Yi Liu, [**The Impact of dataset selection on land degradation assessment**]
 
 ### In Prep
--- **Arden L. Burrell**, Jason P. Evans, Yi Liu, [**interactions between Anthropogenic climate change and Dryland Degredation **]
+-- **Arden L. Burrell**, Jason P. Evans, Yi Liu, [**interactions between Anthropogenic climate change and Dryland Degredation**] 
+
 -- **Arden L. Burrell**, Jason P. Evans, Yi Liu, [**Detecting shrub enchroachment on a global scale**]
