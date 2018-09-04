@@ -12,3 +12,4 @@ title: Publications
 
 ### In Prep
  - **Arden L. Burrell**, Jason P. Evans, Yi Liu, **interactions between Anthropogenic climate change and Dryland Degredation**
+ - **Arden L. Burrell**, Jason P. Evans, Yi Liu, **Aridity and the future of for climate driven desertification**
