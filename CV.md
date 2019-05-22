@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Curriculum Vitae
+title: Curriculum Vitae
 ---
 
 ### Current Employment
