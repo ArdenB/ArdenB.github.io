@@ -2,9 +2,11 @@
 layout: page
 subtitle: Curriculum Vitae
 ---
+### Current Employment
+- 2019 **Postdoctoral research associate**. The University of Leicester
 
 ### Education 
-- 2015-Current: **Doctor of Philosophy in the Faculty of Science**. The University of New South Wales: Climate Change Research Centre. ARC Centre of Excellence for Climate System Science  
+- 2015-2019: **Doctor of Philosophy in the Faculty of Science**. The University of New South Wales: Climate Change Research Centre. ARC Centre of Excellence for Climate System Science  
 - 2009-2012: **Bachelor of Environmental Science** (Honours, Class 1) University of Wollongong Dean’s Merit List. 
 
 ### Teaching
