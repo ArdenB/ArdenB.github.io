@@ -5,7 +5,9 @@ subtitle: My Research
 
 My research is focused on the use of remote sensing to understand the links between climate and vegetation change.  
 
-I am currently working at the University of Leciester as a post-doctoral research associate on the FIre REcovery and Forest Loss in Eastern Siberia (FIREFLIES) projecct.  
+Im currently working as a post-doctoral Research Associate at the Woods Hole Research Center working on boreal forest biomass change. 
+
+I spent 2019 working as a post-doctoral research associate at the University of Leciester on the FIre REcovery and Forest Loss in Eastern Siberia (FIREFLIES) projecct.  
 
 In 2019 I completed my PhD at the UNSW Climate Change Research Centre under Prof. Jason Evans and Dr. Yi Liu. My thesis focused on separating land degradation, climate variability and climate change in dryland regions using remote sensing. My particular interest is on improving the methods used to separate land degradation from climate induced vegetation variability. 
 
