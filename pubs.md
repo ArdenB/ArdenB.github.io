@@ -18,5 +18,4 @@ title: Publications
  
 ### In Prep
  - **Arden L. Burrell**, Kirsten Barrett, **Siberian Boreal forest loss under climate change**
- - **Arden L. Burrell**, Jason P. Evans, Martin De Kauwe, **Anthropogenic climate change and desertification**
  - **Arden L. Burrell**, Jason P. Evans, **Aridity and future climate driven desertification**
