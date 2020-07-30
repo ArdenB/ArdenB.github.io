@@ -5,7 +5,7 @@ subtitle: My Research
 
 My research is focused on the use of remote sensing to understand the links between climate and vegetation change.  
 
-Im currently working as a post-doctoral Research Associate at the Woods Hole Research Center working on boreal forest biomass change. 
+I am currently working as a Post-doctoral Research Associate at the Woods Hole Research Center studying how machine learning can be used to understand and predict boreal forest biomass change. 
 
 I spent 2019 working as a post-doctoral research associate at the University of Leciester on the FIre REcovery and Forest Loss in Eastern Siberia (FIREFLIES) projecct.  
 
