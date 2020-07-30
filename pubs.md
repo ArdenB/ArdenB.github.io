@@ -6,6 +6,7 @@ title: Publications
  - **Arden L. Burrell**, Jason P. Evans, Yi Liu, [**Detecting dryland degradation using Time Series Segmentation and Residual Trend analysis (TSS-RESTREND)**](http://www.sciencedirect.com/science/article/pii/S0034425717302171) In Remote Sensing of Environment, Volume 197, 2017, Pages 43-57, ISSN 0034-4257
  - **Burrell, Arden L.**, Jason P. Evans, and Yi Liu. [**The Impact of Dataset Selection on Land Degradation Assessment.**](https://doi.org/10.1016/j.isprsjprs.2018.08.017) ISPRS Journal of Photogrammetry and Remote Sensing, Volume 146, 2018: Pages 22–37. 
  - **Burrell, A. L.**, J. P. Evans, and Y. Liu. [**The Addition of Temperature to the TSS-RESTREND Methodology Significantly Improves the Detection of Dryland Degradation**](https://doi.org/10.1109/JSTARS.2019.2906466) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019,
+ - **Burrell, A. L.**, J. P. Evans, and M. De Kauwe. [‘Anthropogenic Climate change has driven over 5 million km<sup>2</sup> of drylands towards desertification’](https://doi.org/10.1038/s41467-020-17710-7). Nature Communications. 2020. 
 
 
 ### Peer Reviewed Conference Proceedings 
@@ -13,8 +14,9 @@ title: Publications
 
 
 ### In Press
-
-### In Prep
  - **Arden L. Burrell**, Kirsten Barrett, **Ecosystem collapse in the boreal region**
+ 
+### In Prep
+ - **Arden L. Burrell**, Kirsten Barrett, **Siberian Boreal forest loss under climate change**
  - **Arden L. Burrell**, Jason P. Evans, Martin De Kauwe, **Anthropogenic climate change and desertification**
  - **Arden L. Burrell**, Jason P. Evans, **Aridity and future climate driven desertification**
