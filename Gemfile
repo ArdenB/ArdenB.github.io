@@ -1,6 +1,8 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "github-pages", '163', group: :jekyll_plugins
+# Mirrors the GitHub Pages build environment, including jekyll-remote-theme
+# (used to pull in the Beautiful Jekyll theme) and jekyll-sitemap.
+gem "github-pages", group: :jekyll_plugins
 
-# enable tzinfo-data for local build
-# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+# Required for `jekyll serve` on Ruby 3+
+gem "webrick"

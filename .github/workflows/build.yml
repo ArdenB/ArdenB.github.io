@@ -1,0 +1,24 @@
+name: Build site
+
+# Validation-only build. This does NOT deploy the site — GitHub Pages still
+# builds and deploys from the configured branch. It just confirms the Jekyll
+# build (including the remote theme) compiles cleanly before changes go live.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
