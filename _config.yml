@@ -113,6 +113,9 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - vendor
+  - .bundle
+  - .github
 
 plugins:
   - jekyll-sitemap
