@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://ardenburrell.com"
+url: "https://ardenburrell.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: Arden Burrell
 
 # Short description of your site
-description: A bit of infomation about me
+description: Remote sensing &amp; data scientist
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,6 @@ navbar-links:
   Research: "aboutme"
   Publications: "pubs"
   Curriculum Vitae: "CV"
-  Blog: "blog"
   Google Scholar: "https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en"
   Resources:
     - TSS.RESTREND: "https://github.com/ArdenB/TSSRESTREND"
@@ -63,48 +62,22 @@ title-img: "/img/BWimage.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Arden Burrell
-  email: "arden.burrell@unsw.edu.au"
-  facebook: yourname  # eg. daattali
-  github: ArdenB    # eg. daattali
-  twitter: arden_burrell
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
+  email: "arden.burrell@sydney.edu.au"
+  github: ArdenB
+  scholar: "https://scholar.google.com.au/citations?user=3a4e-tcAAAAJ&hl=en"
+  orcid: "0000-0001-8762-1296"
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
   email: true
-  twitter: true
-  google-plus: false
   github: true
-  reddit: false
-  linkedin: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
-  steam: false
-  twitch: false
-  yelp: false
+  scholar: true
+  orcid: true
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   google: false
   linkedin: false
@@ -137,11 +110,10 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
 
 kramdown:
   input: GFM
@@ -229,8 +201,6 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-plugins:
-  - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

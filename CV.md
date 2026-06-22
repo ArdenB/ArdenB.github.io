@@ -4,10 +4,11 @@ title: Curriculum Vitae
 ---
 
 ### Current Employment
-- 2020 **Postdoctoral research associate**. Woods Hole Research Center
+- 2024&ndash;present **Data Scientist**. Australian Plant Phenomics Network &amp; Sydney Informatics Hub, The University of Sydney
 
 ### Past Employment
-- 2019 **Postdoctoral research associate**. The University of Leicester
+- 2020&ndash;2024 **Postdoctoral Research Associate**. Woodwell Climate Research Center (NASA Arctic-Boreal Vulnerability Experiment, ABoVE)
+- 2019 **Postdoctoral Research Associate**. The University of Leicester (FIREFLIES project)
 
 ### Education 
 - 2015-2019: **Doctor of Philosophy in the Faculty of Science**. The University of New South Wales: Climate Change Research Centre. ARC Centre of Excellence for Climate System Science  

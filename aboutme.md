@@ -3,14 +3,22 @@ layout: page
 subtitle: My Research
 ---
 
-My research is focused on the use of remote sensing to understand the links between climate and vegetation change.  
+My work sits at the intersection of remote sensing, climate science, data science and machine learning, with a focus on understanding how vegetation responds to a changing climate.
 
-I am currently working as a Post-doctoral Research Associate at the Woods Hole Research Center studying how machine learning can be used to understand and predict boreal forest biomass change. 
+### Data science at the University of Sydney
 
-I spent 2019 working as a post-doctoral research associate at the University of Leciester on the FIre REcovery and Forest Loss in Eastern Siberia (FIREFLIES) projecct.  
+I am currently a Data Scientist with the [**Australian Plant Phenomics Network (APPN)**](https://www.plantphenomics.org.au/) and the [**Sydney Informatics Hub**](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html), part of the Research AI and Data Engineering group at the University of Sydney. Here I apply advanced machine learning and AI tools to extend the research impact of state-of-the-art drone and satellite data for plant phenotyping.
 
-In 2019 I completed my PhD at the UNSW Climate Change Research Centre under Prof. Jason Evans and Dr. Yi Liu. My thesis focused on separating land degradation, climate variability and climate change in dryland regions using remote sensing. My particular interest is on improving the methods used to separate land degradation from climate induced vegetation variability. 
+### Boreal and Arctic forests
 
-As part of this I developed the **Time Series Segmented RESidual TRENDs (TSS-RESTREND) method** [**(Burrell et al., 2017)**](http://www.sciencedirect.com/science/article/pii/S0034425717302171). I published this method as an R-package which I continue to develop. The goal of this work is to create an open access software tool that can be applied to large datasets to produce reliable and reproducible estimates of land degradation.
+From 2020 to 2024 I worked at the [**Woodwell Climate Research Center**](https://www.woodwellclimate.org/) (formerly the Woods Hole Research Center) as part of NASA's Arctic-Boreal Vulnerability Experiment ([**ABoVE**](https://above.nasa.gov/)). My work combined field data, remote sensing, climate model output and machine learning to assess forest vulnerability and post-disturbance recovery trajectories, with a focus on wildfire and drought. In 2019 I also worked at the University of Leicester on the FIre REcovery and Forest Loss In Eastern Siberia (FIREFLIES) project.
 
-in 2012 I completed my Bachelor of Environmental Science (Honours, Class 1) at the University of Wollongong. My honors thesis was on **Mapping Changes in Estuarine Vegetation Communities on the NSW South Coast using Remote Sensing**. The project was undertaken in conjuction with the NSW Office of Environment and Heritage (Wollongong) and was superviosed by Prof. Colin Woodroffe.  
+### Dryland degradation and the TSS-RESTREND method
+
+In 2019 I completed my PhD at the UNSW Climate Change Research Centre under Prof. Jason Evans and Dr. Yi Liu. My thesis focused on separating land degradation, climate variability and climate change in dryland regions using remote sensing, with a particular interest in improving the methods used to distinguish land degradation from climate-induced vegetation variability.
+
+As part of this work I developed the **Time Series Segmented RESidual TRENDs (TSS-RESTREND) method** [**(Burrell et al., 2017)**](https://doi.org/10.1016/j.rse.2017.05.018), which I published as an open-source R-package that I continue to develop. The goal is a freely available tool that can be applied to large datasets to produce reliable and reproducible estimates of land degradation. This research led to [**Burrell et al. (2020)**](https://doi.org/10.1038/s41467-020-17710-7) in *Nature Communications*, which found that anthropogenic climate change has driven over 5 million km&sup2; of drylands towards desertification.
+
+### Background
+
+In 2012 I completed my Bachelor of Environmental Science (Honours, Class 1) at the University of Wollongong. My honours thesis, supervised by Prof. Colin Woodroffe and undertaken in conjunction with the NSW Office of Environment and Heritage, mapped changes in estuarine vegetation communities on the NSW South Coast using remote sensing.
